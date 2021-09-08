@@ -25,7 +25,7 @@ install xcode command line tools
 
 
 how to run the script:  
-is it possible to devise an easy to remember and succint memorizable command that could do all of this, with minimal dependencies? 
+is it possible to devise an easy to remember and succint memorizable command that could do all of this, with minimal dependencies?   
 Yes - use curl, like hombrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  
 
 but can we do this using zsh instead?  
