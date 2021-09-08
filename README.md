@@ -29,3 +29,5 @@ is it possible to devise an easy to remember and succint memorizable command tha
 Yes - use curl, like hombrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"  
 
 but can we do this using zsh instead?  
+
+Master plan: can we make a thing that runs, sees all the stuff you have installed, constructs a script for you, in the proper order of dependencies, and now you have a script to get your mac set up just how you want? macOS preferences, shell preferences, brew packages, python and js packages (ML stuff, 3b1b manim; node, nodered, jupyter-notebooks). People have time machine, i suppose, but that has literally never worked for me like it should have. Also, if you try to restore to an old macOS version from beta, you can't use time machine backups, as happened to me recently. So a script like this would have been useful. 
