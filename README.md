@@ -8,7 +8,6 @@ can we run automatic checksum of each download to verify integrity? Is that over
 
 script:  
 iCloud documents/screen shots created and set as screen shot save directory: defaults write com.apple.screencapture location  
-enable macOS startup sound (did they re enable this by default in Big Sur?)
 change macOS system preference to disable double spacebar after char auto-insertion of periods. System Preferences > Keyboard, then select the Text tab, how to do in command line? the screen shot dir change should be similar i would think.  
 install zsh   
 make zsh default shell  
