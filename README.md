@@ -16,8 +16,11 @@ Homebrew installed
 brew wget installed  
 brew oh my zsh installed  
 brew ffmpeg installed  
+brew install imagemagick
 brew handbrake cli installed (can we install gui version from command line also?)  
-brew libdvdcss installed  
+brew libdvdcss installed 
+install makemkv
+install subler
 cDocs alias generated in ~/.zshrc (cDocs = "cd cloud documents dir")  
 generate keys for github and login  
 github clone and install youtube-dl  
