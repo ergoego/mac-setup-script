@@ -10,6 +10,9 @@ script:
 // PREFERENCES
 iCloud documents/screen shots created and set as screen shot save directory: defaults write com.apple.screencapture location  
 change macOS system preference to disable double spacebar after char auto-insertion of periods. System Preferences > Keyboard, then select the Text tab, how to do in command line? the screen shot dir change should be similar i would think.  
+put location services icon in menu
+hide menu and dock 
+require administrator password to change systemwide preferences enabled
 
 
 //USEFUL TOOLS
